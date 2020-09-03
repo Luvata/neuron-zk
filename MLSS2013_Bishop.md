@@ -1,12 +1,5 @@
 ---
-course_name: "Probabilistic graphical model" 
-course_url: "url"
-instructors: Christopher Bishop
-year: 2013
-start_date : 2020-08-16 21:00:00
-finish_date: YYYY-MM-dd HH:MM:SS
-status: finished
-tags: PGM, GraphFactorization
+tags: [course, MLSS]
 ---
 
 # Probabilistic Graphical Model (PGM) - MLSS 2013 - Bishop

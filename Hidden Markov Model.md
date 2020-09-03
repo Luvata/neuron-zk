@@ -1,8 +1,5 @@
 ---
-title: Hidden Markov Model
-date: "2020-08-23"
-author: Thanh Le
-tags: [HMM]
+tags: [ASR]
 ---
 
 # Hidden Markov Model
